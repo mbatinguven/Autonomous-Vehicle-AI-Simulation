@@ -716,10 +716,8 @@ MIT Lisansı - Detaylar için LICENSE dosyasına bakın.
 
 ## 👥 Katkıda Bulunanlar
 
-**Geliştiren**: [İsminiz/Ekibiniz]
-**Ders**: [Ders Kodu] - Algoritmalar ve Veri Yapıları
-**Üniversite**: [Üniversite İsmi]
-**Tarih**: Aralık 2025
+Bu proje, Sakarya Üniversitesi Bilişim Sistemleri Mühendisliği bünyesinde bir öğrenci grubu tarafından kolektif bir çabayla geliştirilmiştir. 
+Tüm ekip üyeleri; algoritma tasarımı, simülasyon geliştirme ve veri analizi süreçlerinde ortaklaşa sorumluluk almıştır
 
 ---
 
@@ -755,3 +753,6 @@ Potansiyel iyileştirmeler:
 ---
 
 **Simülasyonun tadını çıkarın! 🚗💨**
+
+
+**Not:Bu proje, Sakarya Üniversitesi Bilişim Sistemleri Mühendisliği bünyesinde bir öğrenci grubu tarafından kolektif bir çabayla geliştirilmiştir. Tüm ekip üyeleri; algoritma tasarımı, simülasyon geliştirme ve veri analizi süreçlerinde ortaklaşa sorumluluk almıştır.**
